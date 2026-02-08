@@ -1,0 +1,14 @@
+Bienvenue dans ce quiz interactif dédié aux grands noms de l'histoire de l'art. Ce projet permet de tester ses connaissances sur les peintres célèbres et leurs chefs-d'œuvre.
+
+## ✨ Caractéristiques
+* **Découverte visuelle :** Identifiez l'artiste derrière chaque tableau.
+* **Niveaux progressifs :** Des maîtres incontournables (Vinci, Van Gogh) aux artistes plus complexes.
+* **Apprentissage :** Une fiche descriptive s'affiche à chaque bonne réponse pour en apprendre plus sur l'artiste.
+
+## 🛠️ Technique
+Ce quiz est entièrement construit avec :
+- **HTML5** & **CSS3** pour une interface soignée.
+- **JavaScript** pour la gestion dynamique des questions et du score.
+
+---
+*Prête à tester votre œil d'expert ?*
